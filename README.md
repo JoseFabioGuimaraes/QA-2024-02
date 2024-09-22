@@ -1,6 +1,6 @@
 # Calculadora - Testes Unitários
 
-Este repositório contém testes unitários em pytest para uma calculadora em Python.
+Este repositório contém testes unitários em pytest para uma calculadora em Python da cadeira de Qualidade de Software com o Professor Angelo Dias
 
 ## Pré-requisitos
 
@@ -49,9 +49,4 @@ pytest
 ```
 
 Isso executará todos os testes e exibirá os resultados no console.
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
-
 
