@@ -20,6 +20,8 @@ O projeto possui a seguinte estrutura de diretórios:
 └── test_soma.py
 └── test_subtracao.py
 └── test_multiplicacao.py
+└── test_fatorial.py
+└── test_potencia.py
 
 ```
 
@@ -28,6 +30,7 @@ O projeto possui a seguinte estrutura de diretórios:
 - `test_subtracao.py`: Este arquivo contém os testes unitários para a função subtracao da calculadora.py.
 - `test_multiplicacao.py`: Este arquivo contém os testes unitários para a função multiplicação da calculadora.py.
 - `test_fatorial.py`: Este arquivo contém os testes unitários para a função fatorial da calculadora.py.
+- `test_potencia.py`: Este arquivo contém os testes unitários para a função potenca da calculadora.py.
 
 ## Executando os Testes
 

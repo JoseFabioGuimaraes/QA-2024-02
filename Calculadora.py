@@ -21,4 +21,7 @@ def fatorial(a):
         return a * fatorial(a-1)
 
 def potencia(a,b):
-    return a ** b
+    if (b < 0):
+        raise ValueError("Potência negativa não existe")
+    else:
+        return a ** b
